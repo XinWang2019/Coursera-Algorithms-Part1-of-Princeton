@@ -4,3 +4,4 @@ Programming assignments
 # queues: 100/100
 # collinear: 100/100
 # 8puzzle: 100/100
+# kdtree: 100/100
